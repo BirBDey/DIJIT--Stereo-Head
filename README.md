@@ -1,1 +1,2 @@
-# DIJIT--Stereo-Head
+# DIJIT-Stereo-Head
+Under construction! 
